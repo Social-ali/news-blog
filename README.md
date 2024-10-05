@@ -21,7 +21,7 @@
 
 ### Links
 
-- Live Site URL: [QuirVibe](https://quirvibe.vercel.app/)
+- Live Site URL: [QuirVibe](https://quirvibe1.netlify.app//)
 
 ## My Process
 
